@@ -1,5 +1,5 @@
 #+startup: indent
-#+options: toc:nil  ':t num:3 H:4
+#+options: toc:nil  ':t num:3 H:3
 #+OPTIONS: tags:nil
 #+author: Luke M Perez
 #+date: Summer 2016
@@ -56,14 +56,45 @@
    2. NB: Hobbes on the causes of war: competition, diffidence, glory
       /vs/ Thucydides' fear, pride, interest.
 *** Institutions
-**** North (1988) defines as: 
-**** Keohane (1987) defines as: rules and patterns of behavior
-*** Cooperation
-**** vs. Harmony and Discord
+**** Rationalists Definitions
+1. International regimes
+   1. Laws of War
+   2. International Organizations
+2. Institutions as human made constraints and economic models
+   1. "Institutions are the humanly devised constraints that structure
+      political, economic and social interaction. They consist of both
+      informal constraints... and formal rules. ... Together with the
+      standard constraints of economics they define the choice set and
+      therefore determine transaction and production costs and hence
+      the profitability and feasibility of engaging in economic
+      activity" (North 1991).
+3. Actors (states, non-states) behave in predictable patterns and seek
+   utility maximizing strategies for any given strategy space (Lake
+   and Powell 1999). 
+
+
+**** Normative Definitions
+1. The rules and patterns of behavior Keohane (1987).
+2. Cultures of anarchy and norm dynamics
+   1. Multiple "cultures" of enmity, competition, friendship that form
+      a path dependency between any two (or groups) of nations (Wendt 1999)
+   2. Change within and between cultures depends on entrepreneurs who
+      bring about change in state behavior, ultimately changing the
+      path dependency of relationships between actors (Finnemore and Sikkink).
+3. 
+*** Cooperation 
+**** Cooperation /vs/ Anarchy
+1. Anarchy frustrates cooperation because states are preoccupied with
+   security (Waltz, Mearshimer, etc.)
+2. Anarchy /predicts/ cooperation because self-help suggests
+   outsourcing what cannot be accomplished internally (Keohane, etc.)
+3. Anarchy is called into question because cooperation suggests
+   hierarchy and order and not Hobbesian system. 
+**** Cooperation and state behavior
 1. Harmony and Discord require no change in behavior on the part of actors.
 2. Cooperation is /contingent/ change in behavior interdependent on
    the actions of other partners in the deal.
-**** Cooperation vs. Anarchy
+
 ** War and conflict
 *** Why War?
 **** Misreading of capabilities. 
@@ -81,37 +112,39 @@ assuming rather than showing that the system does not have an effect.
 ** Foreign Policy
 
 * Annotated Readings
-
 ** Blainey, Geoffrey, (1988) [GB88]
 Blainey's /The Causes of War/ surveys every major war from 1700 to
-roughly 1970. In doing so he considers and takes down nearly every
-major explanation, be it scholarly or proverbial, for war. One of the
-more notable points of analysis is his critique of Manchester
-liberalism. The incident is all the more relevant in light of the
-British referendum to depart from the European Union. Cooperation had
-done wonders for promoting economic growth and prosperity around the
-world, but politics---not economics---is sovereign. 
+roughly 1970, showing how much of the conventional wisdom about the
+causes of war are misguided or outright false. War occurs because of
+power imbalances and misperceptions about any given nation's position
+in the world. Although Blainey lacks the rigor of formal or empirical
+models, his findings approach conclusions found by political
+scientists: that war is bargaining problem of sorts, a part of the
+political process between nations. One notable line of inquiry is his
+study of the Manchester creed of the late-19th and early-20th
+century. Cooperation in this period was at least as deep and broad as
+modern globalization, then as now, the conventional wisdom was that
+economics and cultural openness were making war obsolete. But then, as
+now, politics rather than economics proves to be sovereign.  
 ** Bennett, Andrew (2013) [Bennett2013]
-*** Summary
 
 ** Broaumoeller, Bear F. (2012) [Broemoeller2012]
 ** de Marchi, Scott (deMarchi2005)
-*** Summary
 Examines the limitations of quantitative and and formal models in
 political science, arguing that computational models can compliment
-and improve traditional quant and rat-choice approaches. A much needed
-reliance on /out-of-sample/ testing is posited as one such
-example. (OOS testing takes the same model and applies it to data
-other than the parameters specified for the research. If a model has
-been optimized for a particular dataset, the OOS results will yield
-weaker---or non-significant---findings.
-*** Data Generating Processes (DGP)
-Chapter discusses how data generating processes can be used to test
-specific models. In the book he gives several quick examples wherein a
-Pearl script is used to create random data that fits a particular type
-of distribution. Against this generated data, models can be tested
-without relying on the collected data samples. Doing helps avoid
-problems of /overfitting/ and /underfiting/ models.  
+and improve traditional empirical and formal research designs.
+Following Achen (2002), de Marchi argues that empirical modeling too
+often includes an over abundance of variables, thereby overfitting
+their model and producing spurious findings (p. 11). Formal theorists
+are not immune to this problem because an abundance of logically
+consistent models exist that can be fitted to the empirical
+observations such that whatever the researcher wishes to show, /a
+priori/ can usually be shown. Computation models, however, can
+adjudicate between various models by allowing researchers to test a
+model against a closer approximation of the Data Generating Process
+(DGP) before doing so on the actual empirical data. This approach,
+along with /out-of-sample/ (OOS) testing helps researchers avoid the
+pitfalls of overfitting or underfitting their models.   
 ** Oatley, Thomas (2012) [TO12reduct]
 Oatley critiques the methodological reductionism of OEP because it
 risks producing false or inaccurate knowledge. According to Oatley,
@@ -120,12 +153,11 @@ studied without consideration of system level effects. In at least
 three issue areas he shows that modeling the system level effects
 produces different findings from a strict OEP method that only models
 domestic level variables. 
-** Waltz, Kenneth N. 1959 (Waltz1959msw)
-*** Summary                                                       :summary:
+** Waltz, Kenneth N. 1959 
 /Man, the State, and War/ from Waltz's dissertation, examines the
 levels of analysis (individual, state, system) and the causes of war
 and peace among nations. 
-** Waltz1979tip
+** Waltz, Kennith N. 1979 
 /Theory of Internat'l Politics/ lays the foundation for nearly
 all contemporary IR research either by critiquing, extending, or
 modifying Waltz's basic definitions of theory, reductionist/systemic
