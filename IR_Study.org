@@ -1,0 +1,146 @@
+#+startup: indent
+#+options: toc:nil  ':t num:3 H:4
+#+OPTIONS: tags:nil
+#+author: Luke M Perez
+#+date: Summer 2016
+#+title: International Relations Prelim Exam Notes
+
+
+
+* Outline of International Relations
+** General Concepts
+*** Levels of Analysis
+1. Individual Level
+   1. Human Behavior
+      1. Classical IR (Carr, Morgenthau, Neibuhr) focused on "human
+         nature" as /the/ cause of war. Rejected as reductionist by
+         Waltz and structural theorists.
+      2. Structuralism's strength from 1980ff waning in light of
+         evolutionary psychology, GT, constructivism
+      3. Renewed interest of individual levels and their interaction
+         with state and system suggests potential for dynamic models
+         of IR (IPE, systems theory, etc.) ::need citation:: 
+   2. Human Nature
+   3. Criticisms
+      1. Arguments of human nature (cf. Morgenthau, Neibuhr) are
+         reductionist
+      2. Individuals are not the essential actors in IR
+2. State Level
+   1. Domestic politics pushing upward into the system
+   2. Examples included
+      1. Open Economy Politics
+      2. Neoclassical realism
+   
+3. System Level
+   1. Anarchy is a material variable, creates incentives and
+      constraints on state behavior
+   2. Criticisms
+      1. Waltz relies on theoretical reductionism, treating the state
+         as a microeconomic firm. 
+*** Agent-Structure Problem
+**** Statement of problem
+1. Who influences who, /agents on structure/ or /structures on agents/?
+   1. Constitutive Theorizing: mutually dependent ontology (constructivism).
+      1. Wendt 1999
+      2. Kowert and Legro 2006: possible to separate as matter of
+         theory and empirics across time, context, or process. 
+*** Principle-Agent Model
+*** Strategic models
+**** Interests vs. Preferences
+1. Not identical
+   1. Preferences are /what/ individual actors want.
+   2. Interests are /why/ they want.
+2. Norms, morality, or interest may drive interests (Wagner 2010;
+   Frieden 1999 [Lake and Powell])
+   1. preferences and the conflict between them are what drive strategy.
+   2. NB: Hobbes on the causes of war: competition, diffidence, glory
+      /vs/ Thucydides' fear, pride, interest.
+*** Institutions
+**** North (1988) defines as: 
+**** Keohane (1987) defines as: rules and patterns of behavior
+*** Cooperation
+**** vs. Harmony and Discord
+1. Harmony and Discord require no change in behavior on the part of actors.
+2. Cooperation is /contingent/ change in behavior interdependent on
+   the actions of other partners in the deal.
+**** Cooperation vs. Anarchy
+** War and conflict
+*** Why War?
+**** Misreading of capabilities. 
+** International Political Economy
+*** OEP
+**** Method and approach
+**** Key findings
+**** Criticisms
+***** Oatley 2011. 
+Methodological reductionism produces inaccurate knowledge. Most OEP
+seems to drop the final step (model the system with necessary) by
+assuming rather than showing that the system does not have an effect. 
+** International Organization
+
+** Foreign Policy
+
+* Annotated Readings
+
+** Blainey, Geoffrey, (1988) [GB88]
+Blainey's /The Causes of War/ surveys every major war from 1700 to
+roughly 1970. In doing so he considers and takes down nearly every
+major explanation, be it scholarly or proverbial, for war. One of the
+more notable points of analysis is his critique of Manchester
+liberalism. The incident is all the more relevant in light of the
+British referendum to depart from the European Union. Cooperation had
+done wonders for promoting economic growth and prosperity around the
+world, but politics---not economics---is sovereign. 
+** Bennett, Andrew (2013) [Bennett2013]
+*** Summary
+
+** Broaumoeller, Bear F. (2012) [Broemoeller2012]
+** de Marchi, Scott (deMarchi2005)
+*** Summary
+Examines the limitations of quantitative and and formal models in
+political science, arguing that computational models can compliment
+and improve traditional quant and rat-choice approaches. A much needed
+reliance on /out-of-sample/ testing is posited as one such
+example. (OOS testing takes the same model and applies it to data
+other than the parameters specified for the research. If a model has
+been optimized for a particular dataset, the OOS results will yield
+weaker---or non-significant---findings.
+*** Data Generating Processes (DGP)
+Chapter discusses how data generating processes can be used to test
+specific models. In the book he gives several quick examples wherein a
+Pearl script is used to create random data that fits a particular type
+of distribution. Against this generated data, models can be tested
+without relying on the collected data samples. Doing helps avoid
+problems of /overfitting/ and /underfiting/ models.  
+** Oatley, Thomas (2012) [TO12reduct]
+Oatley critiques the methodological reductionism of OEP because it
+risks producing false or inaccurate knowledge. According to Oatley,
+OEP assumes---rather than shows---that the system under study can be
+studied without consideration of system level effects. In at least
+three issue areas he shows that modeling the system level effects
+produces different findings from a strict OEP method that only models
+domestic level variables. 
+** Waltz, Kenneth N. 1959 (Waltz1959msw)
+*** Summary                                                       :summary:
+/Man, the State, and War/ from Waltz's dissertation, examines the
+levels of analysis (individual, state, system) and the causes of war
+and peace among nations. 
+** Waltz1979tip
+/Theory of Internat'l Politics/ lays the foundation for nearly
+all contemporary IR research either by critiquing, extending, or
+modifying Waltz's basic definitions of theory, reductionist/systemic
+approaches, and philosophy of social science. Waltz's microeconomic
+method and systemic approach recast classical realism into it's
+neorealist, or structural, formulation found in Mearshimer and others.
+*** Systems Analysis, when it's required (p. 57)
+Waltz concludes form his analysis of Kaplan that a systemic approach
+should be used only if it "seems" that system level causes are at
+play. Although this a is somewhat useful criterion, he leaves
+undefined what exactly he means by /seems/.
+*** Statistics as mere description (p. 3)
+"Statistics are simply description in numerical form" (p. 3). 
+
+Note here that Waltz is writing in 1979, just before the cusp of the
+computational revolution in social science. He may only be referring
+to descriptive statistics and not the more advanced methods used by
+contemporary scholars of IR. 
