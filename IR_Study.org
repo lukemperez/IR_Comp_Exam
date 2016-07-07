@@ -3,13 +3,11 @@
 #+OPTIONS: tags:nil
 #+author: Luke M Perez
 #+date: Summer 2016
-#+title: International Relations Prelim Exam Notes
+#+title: Outline International Relations
 
 
-
-* Outline of International Relations
-** General Concepts
-*** Levels of Analysis
+* General Concepts
+** Levels of Analysis
 1. Individual Level
    1. Human Behavior
       1. Classical IR (Carr, Morgenthau, Neibuhr) focused on "human
@@ -37,16 +35,16 @@
    2. Criticisms
       1. Waltz relies on theoretical reductionism, treating the state
          as a microeconomic firm. 
-*** Agent-Structure Problem
-**** Statement of problem
+** Agent-Structure Problem
+*** Statement of problem
 1. Who influences who, /agents on structure/ or /structures on agents/?
    1. Constitutive Theorizing: mutually dependent ontology (constructivism).
       1. Wendt 1999
       2. Kowert and Legro 2006: possible to separate as matter of
          theory and empirics across time, context, or process. 
-*** Principle-Agent Model
-*** Strategic models
-**** Interests vs. Preferences
+** Principle-Agent Model
+** Strategic models
+*** Interests vs. Preferences
 1. Not identical
    1. Preferences are /what/ individual actors want.
    2. Interests are /why/ they want.
@@ -55,8 +53,8 @@
    1. preferences and the conflict between them are what drive strategy.
    2. NB: Hobbes on the causes of war: competition, diffidence, glory
       /vs/ Thucydides' fear, pride, interest.
-*** Institutions
-**** Rationalists Definitions
+** Institutions
+*** Rationalists Definitions
 1. International regimes
    1. Laws of War
    2. International Organizations
@@ -73,7 +71,7 @@
    and Powell 1999). 
 
 
-**** Normative Definitions
+*** Normative Definitions
 1. The rules and patterns of behavior Keohane (1987).
 2. Cultures of anarchy and norm dynamics
    1. Multiple "cultures" of enmity, competition, friendship that form
@@ -82,34 +80,36 @@
       bring about change in state behavior, ultimately changing the
       path dependency of relationships between actors (Finnemore and Sikkink).
 3. 
-*** Cooperation 
-**** Cooperation /vs/ Anarchy
+** Cooperation 
+*** Cooperation /vs/ Anarchy
 1. Anarchy frustrates cooperation because states are preoccupied with
    security (Waltz, Mearshimer, etc.)
 2. Anarchy /predicts/ cooperation because self-help suggests
    outsourcing what cannot be accomplished internally (Keohane, etc.)
 3. Anarchy is called into question because cooperation suggests
    hierarchy and order and not Hobbesian system. 
-**** Cooperation and state behavior
+*** Cooperation and state behavior
 1. Harmony and Discord require no change in behavior on the part of actors.
 2. Cooperation is /contingent/ change in behavior interdependent on
    the actions of other partners in the deal.
 
-** War and conflict
-*** Why War?
-**** Misreading of capabilities. 
-** International Political Economy
-*** OEP
-**** Method and approach
-**** Key findings
-**** Criticisms
-***** Oatley 2011. 
+* War and conflict
+** Why War?
+*** Misreading of capabilities. 
+* International Political Economy
+** OEP
+*** Method and approach
+*** Key findings
+*** Criticisms
+**** Oatley 2011. 
 Methodological reductionism produces inaccurate knowledge. Most OEP
 seems to drop the final step (model the system with necessary) by
 assuming rather than showing that the system does not have an effect. 
-** International Organization
+* International Organization
 
-** Foreign Policy
+* Foreign Policy
+
+
 
 * Annotated Readings
 ** Blainey, Geoffrey, (1988) [GB88]
