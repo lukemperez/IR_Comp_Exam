@@ -36,12 +36,20 @@
       1. Waltz relies on theoretical reductionism, treating the state
          as a microeconomic firm. 
 ** Agent-Structure Problem
-*** Statement of problem
 1. Who influences who, /agents on structure/ or /structures on agents/?
-   1. Constitutive Theorizing: mutually dependent ontology (constructivism).
-      1. Wendt 1999
-      2. Kowert and Legro 2006: possible to separate as matter of
-         theory and empirics across time, context, or process. 
+2. Rationalists emphasize the agents as those who make the system and institutions
+   1. Wagner (2010) suggests the international system is the product
+      of international bargains between states
+   2. Milner (199?) raises the possibility that it could be
+      /rationalism all the way down/ such that important concepts,
+      like sovereignty, thought to be firm are much more malleable.
+3. Constructivists stress the constitutive ontology of agents and structures
+   1. Agents and structure emerge together
+   2. Structure shapes agents in ways that are largely imperceptible.
+      1. Wendt (1999) on the culture's of anarchy: Hobbesian, Lockean, Kantian
+      2. Ruggie (1992): Embedded liberalism thesis. Logic of
+         free-market, global capitalism baked into the system by the
+         framers of post-war order.          
 ** Principle-Agent Model
 ** Strategic models
 *** Interests vs. Preferences
@@ -95,13 +103,17 @@
 
 * War and conflict
 ** Why War?
-*** Misreading of capabilities. 
+*** Misreading of capabilities
+1. War is often welcomed by states who believe it will be quick, and
+   victory assured (Blainey 1988)
+   1. Often by both sized
+   2. Often against evidence to the contrary
 *** The inefficiency puzzle (Fearon 1995)
 1. Given that war always exerts some cost on states such that a bargain /ex ante/
    would be lest costly, why do states choose war?
 2. Three reasons are posited
    1. Uncertainty and misrepresenting private information
-   2. 
+   2. States cannot solve the commitment problems
    3. Issue indivisibility
 3. Suggests, however, that no such factors exist which would predict
    war over other factors. /war is the error term/ (Gartzke 1999).
