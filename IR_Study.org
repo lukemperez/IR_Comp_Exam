@@ -100,23 +100,29 @@
 1. Harmony and Discord require no change in behavior on the part of actors.
 2. Cooperation is /contingent/ change in behavior interdependent on
    the actions of other partners in the deal.
+** Audience Costs
+*** Theory (Fearon 1994)
+*** Criticisms
+**** Limited Scope
+1. The relative strength of the "changed circumstances" appeal calls
+   into question the scope of conditions when audience cost theory holds
+2. i.e., if a leader can escape punishment by same "oh, it was prudent
+   to raise stakes when I said it, but imprudent to carry out the
+   threat" then we might being to wonder if audience costs has any
+   meaning.
+**** Empirical challenges: 
+Snyder and Borghard 2011 find four points of concern: 
 
-* War and conflict
-** Why War?
-*** Misreading of capabilities
-1. War is often welcomed by states who believe it will be quick, and
-   victory assured (Blainey 1988)
-   1. Often by both sized
-   2. Often against evidence to the contrary
-*** The inefficiency puzzle (Fearon 1995)
-1. Given that war always exerts some cost on states such that a bargain /ex ante/
-   would be lest costly, why do states choose war?
-2. Three reasons are posited
-   1. Uncertainty and misrepresenting private information
-   2. States cannot solve the commitment problems
-   3. Issue indivisibility
-3. Suggests, however, that no such factors exist which would predict
-   war over other factors. /war is the error term/ (Gartzke 1999).
+1. Leaders prefer flexibility in crisis and are therefore more likely
+   to prefer ambiguity.
+2. Domestic public will care more about the substance of the final
+   policy more than whatever perceived consistency
+3. The public concern with the national honor is largely independent
+   of whatever threats were made.
+4. Authoritarian regimes interpret the dynamics of audience costs
+   differently than democracies, thereby weakening the strength of
+   audience costs in practice
+
 * International Political Economy
 ** OEP
 *** Method and approach
