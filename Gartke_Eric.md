@@ -28,3 +28,21 @@ bargain. That states choose war suggests that the final proximate
 cause is always unobserved.
 
 # 2001. 
+
+# 2007. Capitalist Peace
+
+Gartzke argues that capitalism, not democracy, causes peace by
+channeling conflict into the marketplace, incentivizing states to
+converge their national interests, and reducing the gains from
+territorial conquest. He demonstrates his claim by running statistical
+tests from [@OnealRusset1999] baseline while adding his own variables
+that measure the empirical effects of capitalism. Although presented
+as a challenge to the democratic peace literature, I found the
+evidence *reinforcing* to democratic peace because both predict a
+liberal peace and because it is functionally impossible (I think) to
+decouple democracy and capitalism. Gartzke updates essential
+conclusions found in [@Brooks1999] on globalization. As global
+production expands, the material gains from conquest are diminished
+because any pre-defined territory is unlikely to contain sufficient
+wealth. Moreover, as wealth continues to be found in knowledge rather
+than material, there is no way to "extract" it as one would raw material.
