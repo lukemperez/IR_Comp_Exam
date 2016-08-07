@@ -61,6 +61,13 @@
    1. preferences and the conflict between them are what drive strategy.
    2. NB: Hobbes on the causes of war: competition, diffidence, glory
       /vs/ Thucydides' fear, pride, interest.
+3. Interests are /shaped/ by the system. 
+   1. Finnemore argues international politics is about defining, not
+      defending, national interests (1996).
+   2. Constructivism asks why non-like states produce like behavior
+      and suggest the answer lies in the conditioning.
+   3. Waltz's dictum that states evolve toward like units suggests
+      normative processes at play.
 ** Institutions
 *** Rationalists Definitions
 1. International regimes
