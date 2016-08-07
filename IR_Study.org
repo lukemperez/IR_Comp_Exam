@@ -98,11 +98,17 @@
 ** Cooperation 
 *** Cooperation /vs/ Anarchy
 1. Anarchy frustrates cooperation because states are preoccupied with
-   security (Waltz, Mearshimer, etc.)
+   security (Waltz)
+   1. Logic of security dilemma (Jervis 1976)
+   2. The system incentivizes autarky (Mearshimer)
 2. Anarchy /predicts/ cooperation because self-help suggests
    outsourcing what cannot be accomplished internally (Keohane, etc.)
+   1. Anarchy as culture (Wendt 1992)
 3. Anarchy is called into question because cooperation suggests
-   hierarchy and order and not Hobbesian system. 
+   hierarchy and order and not Hobbesian system.
+   1. Milner and the appearance of order (????)
+   2. Cooperation is a bargaining game (Schelling 1960) and it may be
+      within a state's interest to cooperate. 
 *** Cooperation and state behavior
 1. Harmony and Discord require no change in behavior on the part of actors.
 2. Cooperation is /contingent/ change in behavior interdependent on
