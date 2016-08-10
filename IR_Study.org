@@ -160,3 +160,116 @@ assuming rather than showing that the system does not have an effect.
 
 
 
+* Practice outlines: 
+** IR Fall 2015: 
+Suppose you are putting together a syllabus for a graduate seminar
+providing a survey of the field of international relations to
+Ph.D. students who expect to take comprehensive exams in political
+science. First, how would you go about organizing your syllabus and
+why (e.g. according to research questions? theoretical frameworks?
+Research approach- es? Chronologically? etc.)? Second, what are your
+goals for what the students should take away from the course?
+Explain. Third, what are some alternatives to the answers you've given
+to the first two questions, and why would you not adopt those
+alternatives?
+
+** Answer
+
+*** How would I approach the question: 
+1. Organize around levels of analysis
+   1. Include discussion of major themes within the levels of analysis
+   2. Focus on problem driven debates within the field
+   3. Read works around questions chronologically so as to strengthen
+      students understanding of theoretical and empirical development
+      to major questions
+2. Why around the levels of analysis?
+   1. Unit of analysis is largely an unspoken methodological hunch on
+      what variable best answers a specific question.
+   2. Is it always purely pragmatic (cf. Fearon and Wendt 1992; Kydd 2008)
+   3. -isms are bad and produce pathologies of analysis (Lake 2011; 2013)
+3. First image
+   1. Political psychology of decision making (Jervis 1976; 1978)
+   2. Johnson (1974) on presidential leadership styles
+   3. Rationalism all the way down (Allison and Zelikow 1999) suggests
+      looking at utility maximizing of state agents
+   4. Preference formation of citizens (Braumoeller 2010, Scheve and Slaughter?)
+   5. Democratic theory and audience costs (Fearon 1995): i.e., are
+      the foreign policy decision makers really bound by the
+      commitments they make (Schelling 1960)? 
+4. Second image
+   1. Defining of state interests (Finnemore 1996)
+      1. arguable that this is a systemic question, but our main
+         question is how states respond and then then legitimate their interests
+      2. Frieden (1999): interests are deduced or assumed (when necessary)
+      3. Frieden and Martin (2001) on the domestic-international
+         interaction. I.e., that domestic institutions, electoral
+         design, and other such factors affect interest aggregation
+      4. Relaxing the assumption of the state as a unitary actor
+         (Milner 1998; cf. Kydd 2008)
+   2. Open Economy Politics
+      1. Openness as dependent variable; politics as IV (Lake 2009)
+      2. How much room do states really have (Mosely 2000,2005,2007)
+         1. Influence of global finance markets strong, but narrow
+            because fund managers look to industry-wide metrics
+         2. RTB logic is flawed but persists because of ideology:
+            critiques and champions of global capitalism have interest
+            in narrative that the state cannot, or should not, be the
+            legitimate arbiter of value
+         3. In some areas, like FDI, a counter logic of climb to the
+            top results because best-practice transfer, firms as
+            advocates for rights, and domestic interests want protections
+   3. Domestic causes of war
+      1. Democratic Theory
+         1. Oneal and Russett (1997) on interdemocratic peace and the
+            challenges by Gartzke () and McDonald (2015)
+         2. Bennet and Stam suggest that research design could affect
+            outcome of findings, but some dv/iv relationships, like
+            democracy, are relatively consistent (2000).
+      2. Snyder (1991) and the myths of expansionism (echoes
+         perception problem highlighted by Jervis)
+      3. War as commitment problem (Powell 2006) and how states seem
+         to solve it.
+5. Third image
+   1. Democratic theory
+   2. Interstate bargaining
+   3. Questions of anarchy
+      1. Materialism of neorealism/neoliberalism
+         1. Waltz and the TIP
+         2. Order within anarchy (Morrow)
+      2. Constructivism and the agent-structure question
+         1. Wendt (1992, 1999)
+         2. Ruggie (1998?)
+   4. IPE and the pressures on states
+      1. Mosley (RTB vs CTT)
+*** What are the goals for students to take away
+1. Research design:
+   1. Approach methods as tool box
+   2. Model similar to "med school" wherein rationalist, qualitative,
+      and empirical do not compete but compliment (Shapario ????).
+2. Exposure to contemporary questions within the field to date
+3. 
+*** Alternatives and why not adopt them
+1. Debates around paradigms
+   1. flawed approach and generally harmful
+   2. Did signal how much was generally agreed upon (Waever 1998)
+   3. But theory driven approach to field has everyone talking past
+      each other
+      1. Trying to "prove" other theories wrong, rather than answering
+         deepest questions about international political phenomena
+      2. Hard to adjudicate which method is appropriate to the
+         question when grand theory is major fault-line of discourse
+2. Major problems and mid-level theorizing
+   1. Strongest alternative possible
+   2. But possible to miss the forest for the trees
+      1. e.g. would be democratic peace
+      2. Seeing debates over its empirical status rather than
+         phenomenon that penetrates many other research agendas
+      3. Debate over its causal pathways cuts across levels of
+         analysis, and we can see the various weakness and strengths
+         of different approaches better when grouped by level of analysis.
+   3. Other research agendas situate better within discussion of
+      levels of analysis
+      1. IOs, for instance, arguably best within second image and
+         behavior of states vis-a-vis their institutions
+      2. Cooperation, e.g., could cut across both 2nd and 3rd image
+         but the other issues at play are best treated on a per-image analysis.
