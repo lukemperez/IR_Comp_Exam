@@ -161,7 +161,7 @@ assuming rather than showing that the system does not have an effect.
 
 
 * Practice outlines: 
-** IR Fall 2015: 
+** IR General Fall 2015:
 Suppose you are putting together a syllabus for a graduate seminar
 providing a survey of the field of international relations to
 Ph.D. students who expect to take comprehensive exams in political
@@ -173,9 +173,8 @@ Explain. Third, what are some alternatives to the answers you've given
 to the first two questions, and why would you not adopt those
 alternatives?
 
-** Answer
-
-*** How would I approach the question: 
+*** Answer
+**** How would I approach the question: 
 1. Organize around levels of analysis
    1. Include discussion of major themes within the levels of analysis
    2. Focus on problem driven debates within the field
@@ -241,14 +240,14 @@ alternatives?
          2. Ruggie (1998?)
    4. IPE and the pressures on states
       1. Mosley (RTB vs CTT)
-*** What are the goals for students to take away
+**** What are the goals for students to take away
 1. Research design:
    1. Approach methods as tool box
    2. Model similar to "med school" wherein rationalist, qualitative,
       and empirical do not compete but compliment (Shapario ????).
 2. Exposure to contemporary questions within the field to date
 3. 
-*** Alternatives and why not adopt them
+**** Alternatives and why not adopt them
 1. Debates around paradigms
    1. flawed approach and generally harmful
    2. Did signal how much was generally agreed upon (Waever 1998)
@@ -273,3 +272,5 @@ alternatives?
          behavior of states vis-a-vis their institutions
       2. Cooperation, e.g., could cut across both 2nd and 3rd image
          but the other issues at play are best treated on a per-image analysis.
+** IR Foreign Policy
+** IR IO and International Law
